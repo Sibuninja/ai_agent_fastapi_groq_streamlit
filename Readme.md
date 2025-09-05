@@ -10,6 +10,13 @@ This project is an AI-powered assistant that supports both:
 - Supports web search toggle (if implemented in backend)
 - Built with FastAPI + Streamlit
 
+## 🖼 Interface Preview
+
+![Agent Interface](assets/AgentDashboard.png)
+
+![RAG Interface](assets/RagDashboard.png)
+
+
 ## 🧩 Project Structure
 ```
 📁 ai_agent_fastapi_groq_streamlit
