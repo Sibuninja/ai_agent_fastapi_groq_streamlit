@@ -1,17 +1,7 @@
-# Build tools
-setuptools>=68.0.0
-wheel>=0.40.0
-pip>=25.2
-Cython>=0.30
-
-# Core packages
 pandas==2.2.3
-numpy==1.26.4
+numpy==2.2.6
 scikit-learn==1.5.2
 scipy==1.14.1
-Pillow==10.1.0
-
-# Web / APIs
 fastapi==0.107.0
 uvicorn==0.25.0
 streamlit==1.26.0
@@ -19,3 +9,4 @@ requests==2.32.5
 python-dotenv==1.0.0
 python-multipart==0.0.20
 aiofiles==23.2.1
+Pillow>=11.0.0
