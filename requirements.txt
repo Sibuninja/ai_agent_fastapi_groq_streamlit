@@ -1,7 +1,7 @@
 pandas==2.2.3
-numpy==1.26.4
+numpy==2.1.0
 scikit-learn==1.3.0
-scipy==1.11.3
+scipy==1.14.1       # safer / older but more likely to have wheels
 fastapi==0.107.0
 uvicorn==0.25.0
 streamlit==1.26.0
