@@ -10,3 +10,4 @@ requests==2.32.5
 python-dotenv==1.0.0
 python-multipart==0.0.20
 aiofiles==23.2.1
+langchain-core==0.3.9
