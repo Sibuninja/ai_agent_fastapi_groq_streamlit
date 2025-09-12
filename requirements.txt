@@ -1,7 +1,7 @@
-pandas==2.2.3
-numpy==2.1.0
-scikit-learn==1.5.2   # ✅ has wheels for Python 3.13
-scipy==1.14.1         # ✅ works with Python 3.13
+pandas==2.2.3         # Pandas 2.2.3 is the first version generally compatible with Python 3.13. :contentReference[oaicite:0]{index=0}
+numpy==1.26.4         # Last 1.x numpy version with wide compatibility. :contentReference[oaicite:1]{index=1}
+scikit-learn==1.5.2   # Newer version with wheels for Python 3.13
+scipy==1.14.1         # Works with numpy 1.26.x and compatible with Python 3.13
 fastapi==0.107.0
 uvicorn==0.25.0
 streamlit==1.26.0
