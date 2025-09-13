@@ -16,7 +16,7 @@ python-multipart==0.0.20
 aiofiles==23.2.1
 
 # Images / binary deps
-Pillow==11.3.0
+Pillow==10.3.0
 
 # LangChain ecosystem (needed by your ai agent files)
 langchain==0.3.27
